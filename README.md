@@ -20,5 +20,5 @@ poetry install
 运行项目
 
 ```python
-poetry run python src/main.py
+poetry run fastapi dev src/main.py
 ```
